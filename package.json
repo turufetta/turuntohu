@@ -1,0 +1,10 @@
+{
+  "name": "ureshinoyudofu-game",
+  "version": "1.0.0",
+  "description": "つるふぇったの嬉野温泉湯豆腐ミニゲーム",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "serve": "npx --yes serve ."
+  }
+}
